@@ -4,6 +4,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rupanti97&label=Profile%20views&color=0e75b6&style=flat" alt="rupanti97" /> </p>
 
+<img align="right" alt ="coding" width ="400" src="https://miro.medium.com/v2/resize:fit:679/1*qdAW1TjCN57h1lbuuzvchg.gif"></img>
+
 - 🔭 I’m currently exploring **flutter technology**
 
 - 🌱 I’m currently learning **Flutter**
