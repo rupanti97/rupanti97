@@ -1,4 +1,4 @@
-![MasterHead](https://miro.medium.com/v2/resize:fit:1358/1*zy5IG2inEQSqeWyPJ7vo-g.gif)
+![MasterHead](https://animafoundation.in/wp-content/uploads/2021/03/mobile-app.gif)
 <h1 align="center">Hi 👋, I'm Sumayia Akter Rupanti</h1>
 <h3 align="center">A passionate Flutter app developer from Bangladesh</h3>
 
