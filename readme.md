@@ -1,6 +1,17 @@
 ![MasterHead](https://animafoundation.in/wp-content/uploads/2021/03/mobile-app.gif)
 <h1 align="center">Hi 👋, I'm Sumayia Akter Rupanti</h1>
-<h3 align="center">A passionate Flutter app developer from Bangladesh</h3>
+<p align="center">## About Me
+- 🚀 I love turning ideas into reality through the power of code.
+- 🌐 Flutter enthusiast with a knack for building beautiful and responsive user interfaces.
+- 📱 Mobile app aficionado, specializing in both Android and iOS development.
+- 💡 Always exploring new technologies and staying updated on the latest trends in the Flutter ecosystem.
+
+## Tech Stack
+- 🔧 Flutter | Dart
+- 📱 Mobile App Development: Android, iOS
+- 🚀 State Management: Provider, Bloc, Getx
+- 🎨 UI/UX: Material Design, Cupertino
+- 🛠 RESTful APIs, Firebase integration and MongoDB</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rupanti97&label=Profile%20views&color=0e75b6&style=flat" alt="rupanti97" /> </p>
 
