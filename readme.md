@@ -1,6 +1,7 @@
 ![MasterHead](https://animafoundation.in/wp-content/uploads/2021/03/mobile-app.gif)
 <h1 align="center">Hi 👋, I'm Sumayia Akter Rupanti</h1>
-<p align="center">## About Me
+<p align="center">
+##About Me
 - 🚀 I love turning ideas into reality through the power of code.
 - 🌐 Flutter enthusiast with a knack for building beautiful and responsive user interfaces.
 - 📱 Mobile app aficionado, specializing in both Android and iOS development.
