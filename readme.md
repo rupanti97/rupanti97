@@ -6,7 +6,7 @@
 
 <img align="right" alt ="coding" width ="400" src="https://miro.medium.com/v2/resize:fit:679/1*qdAW1TjCN57h1lbuuzvchg.gif"></img>
 
-- 🔭 I’m currently exploring **flutter technology**
+- 🔭 I’m currently exploring **Flutter technology**
 
 - 🌱 I’m currently learning **Flutter**
 
